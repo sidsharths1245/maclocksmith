@@ -12,7 +12,7 @@ A lightweight macOS Finder extension that resolves "file in use" errors by ident
 1. Download the latest `MacLocksmith.dmg` from the [Releases](../../releases) tab.
 2. Mount the disk image and drag `MacLocksmith.app` to your `/Applications` directory.
 3. Launch the application once to register the bundled extension with macOS.
-4. Navigate to **System Settings > Privacy & Security > Extensions > Added extensions** and enable MacLocksmith.
+4. Navigate to **System Settings > General > Login Items & Extensions > Extensions** and enable MacLocksmith.
 
 *Note: As an unsigned application, Gatekeeper will require manual approval on the first launch (Right-click the app in Finder > Open).*
 
