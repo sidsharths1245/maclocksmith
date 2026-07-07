@@ -31,6 +31,3 @@ Once installed and enabled, using MacLocksmith takes exactly two clicks:
 2. Navigate to **Product > Scheme > Edit Scheme** and set the Build Configuration to **Release**.
 3. Build the project (`Cmd + B`).
 4. Locate `MacLocksmith.app` in `Products/Release` via **Product > Show Build Folder in Finder**.
-
-## License
-MIT License. Developed by Shiv.
